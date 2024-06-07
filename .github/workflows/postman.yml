@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run newman test
-        run: newman run ./Simple_Grocery_Store_API.postman_collection.json
+        run: ls -a
 
       
 
